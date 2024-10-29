@@ -17,7 +17,7 @@
     "@types/node": "^22.5.5",
     "@types/react": "^18.2.5",
     "@types/react-dom": "^18.2.3",
-    "astro": "^4.15.5",
+    "astro": "^4.16.7",
     "dotenv": "^16.0.3",
     "preact": "^10.13.2",
     "react": "^18.2.0",
